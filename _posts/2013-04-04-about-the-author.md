@@ -2,7 +2,7 @@
 layout: post
 title: "About the Author"
 author: "Paul Le"
-categories: journal
+categories: random
 tags: [documentation,sample]
 image: cutting.jpg
 ---
